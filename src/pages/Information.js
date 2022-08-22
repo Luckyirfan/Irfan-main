@@ -8,7 +8,7 @@ const Information = () => (
   <>
     <Head>
       <title>
-        Information | Material Kit
+        Act Information 
       </title>
     </Head>
     <Box
